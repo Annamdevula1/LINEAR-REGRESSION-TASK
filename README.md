@@ -41,8 +41,10 @@ Files Included
 - predictions.csv
 - trained_model.pkl
 - README.md
+conclusion
+Successfully developed a House Price Prediction model using Linear Regression and evaluated its performance using RMSE. D
 
 Author
 
-Prasad
+ Durga Prasad Annamdevula
 Data Science Internship – Edutech Solution
